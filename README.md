@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ project academically<br>🌱 I’m currently learning Object Oriented Programming<br><br>
+🔭 I’m currently working on C++ project academically<br>🌱 I’m currently learning Data Structure and Algorithm<br><br>
 
 
 ## 🌐 Socials:
